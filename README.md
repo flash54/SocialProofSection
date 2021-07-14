@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [www.frontendmentor.io/solutions/mobile-first-design-of-social-proof-section-using-scss-OqGjHxfGZ](https://www.frontendmentor.io/solutions/mobile-first-design-of-social-proof-section-using-scss-OqGjHxfGZ)
 - Live Site URL: [flash54.github.io/SocialProofSection](https://flash54.github.io/SocialProofSection/)
 
 ## My process
@@ -44,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-I tried doing mobile first design but then realised later that for this particular project, media queries for mobile would be way lesser compared to the same for desktop.
+I tried doing mobile first design but then realised later that for this particular project, media queries for mobile would be way lesser compared to the same for desktop. Still continuec cause i realised it after completing 80% of it and did'nt wanna start from scratch.
 
 ## Author
 
